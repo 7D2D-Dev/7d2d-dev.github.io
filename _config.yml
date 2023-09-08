@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 7D2D-Development Pages
-# author : Talustus
+author : Talustus
 email: 7d2d-dev@@sg-technologie.de
 # github : Talustus
 # feedburner : nil
