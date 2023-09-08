@@ -33,6 +33,7 @@ github_username:  Talustus
 
 # Build settings
 theme: minima
+skin: solarized-dark
 plugins:
   - jekyll-feed
 
